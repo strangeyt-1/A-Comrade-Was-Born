@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+h1{
+    margin: 30px;
+    font-family: cursive;
+    font-size: 4rem;
+    color: blue;
+}
+p{
+    font-size: 35px;
+    color: blue;
+    font-family: cursive;
+}
+footer{
+    font-family: cursive;
+    color: burlywood;
+    text-align: center;
+    font-style: italic;
+}
